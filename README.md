@@ -1,6 +1,6 @@
 ### Hi there, I'm John Cho👋 [![](https://visitcount.itsvg.in/api?id=yc62&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on JUCE C++ Audio Plugin
+- 🔭 I’m currently working on Personal Portfolio
 - 🌱 I’m currently learning **OS and Networking / Computer Graphics**
 - 👯 I’m looking to collaborate on **Software Engineering and Systems Projects**
 - 🤔 I’m looking for help with **getting an internship for this Summer 2026**
