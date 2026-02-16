@@ -1,16 +1,7 @@
-### Hi there, I'm John Cho👋 [![](https://visitcount.itsvg.in/api?id=yc62&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on Personal Portfolio
-- 🌱 I’m currently learning **OS and Networking / Computer Graphics**
-- 👯 I’m looking to collaborate on **Software Engineering and Systems Projects**
-- 🤔 I’m looking for help with **getting an internship for this Summer 2026**
-- 💬 Ask me about **Technology and Development**
-- 📫 How to reach me: **choyohan2002@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: *I'm a ukuleleist and electric guitarist*
+<img width="3360" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/1ae2aa1e-643c-4966-a9ed-a98171edbd47" />
 
 ## About ME
-
 I am a Computer Science Junior at Calvin University with a passion for solving practical problems and delivering reliable technology solutions.
 
 My path to tech has been shaped by a global perspective. Having lived in Vietnam, Hawaii, and South Korea - and completed two years of military service - I have developed a level of discipline, adaptability, and maturity that I bring to every project. I don't just write code but take ownership of my work.
