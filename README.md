@@ -1,4 +1,4 @@
-### Hi there, 안녕하세요, Xin chào, Aloha 👋 [![](https://visitcount.itsvg.in/api?id=yc62&icon=0&color=0)](https://visitcount.itsvg.in)
+### Hi there, I'm John Cho👋 [![](https://visitcount.itsvg.in/api?id=yc62&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on JUCE C++ Audio Plugin
 - 🌱 I’m currently learning **OS and Networking / Computer Graphics**
