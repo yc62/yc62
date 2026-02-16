@@ -1,5 +1,4 @@
-
-<img width="3360" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/1ae2aa1e-643c-4966-a9ed-a98171edbd47" />
+<img width="3360" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/c0e0f3db-4f0b-43e7-9557-f0e52e7ff303" />
 
 ## About ME
 I am a Computer Science Junior at Calvin University with a passion for solving practical problems and delivering reliable technology solutions.
