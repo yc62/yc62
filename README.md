@@ -1,14 +1,4 @@
-<img width="3360" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/c0e0f3db-4f0b-43e7-9557-f0e52e7ff303" />
-
-## About ME
-I am a Computer Science Junior at Calvin University with a passion for solving practical problems and delivering reliable technology solutions.
-
-My path to tech has been shaped by a global perspective. Having lived in Vietnam, Hawaii, and South Korea - and completed two years of military service - I have developed a level of discipline, adaptability, and maturity that I bring to every project. I don't just write code but take ownership of my work.
-
-Currently, I am expanding my technical foundation in programming, focusing on efficient software development and system logic. Beyond the classroom, I apply my troubleshooting skills daily as a CIT Helpdesk Technician, where I support students and faculty by diagnosing hardware issues and providing network solutions. This role has sharpened my ability to think on my feet and communicate technical concepts clearly.
-
-I am actively seeking a Summer 2026 internship where I can contribute to a team, learn from experienced engineers, and apply my skills in Software Engineering or Technical Support.
-
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/8d2aedda-cbd9-433f-a61e-78c23f08add5)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/choyohan2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/y._.hnl33/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yong-hwan-cho/)
@@ -30,6 +20,15 @@ I am actively seeking a Summer 2026 internship where I can contribute to a team,
 ## Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+## About ME
+I am a Computer Science Junior at Calvin University with a passion for solving practical problems and delivering reliable technology solutions.
+
+My path to tech has been shaped by a global perspective. Having lived in Vietnam, Hawaii, and South Korea - and completed two years of military service - I have developed a level of discipline, adaptability, and maturity that I bring to every project. I don't just write code but take ownership of my work.
+
+Currently, I am expanding my technical foundation in programming, focusing on efficient software development and system logic. Beyond the classroom, I apply my troubleshooting skills daily as a CIT Helpdesk Technician, where I support students and faculty by diagnosing hardware issues and providing network solutions. This role has sharpened my ability to think on my feet and communicate technical concepts clearly.
+
+I am actively seeking a Summer 2026 internship where I can contribute to a team, learn from experienced engineers, and apply my skills in Software Engineering or Technical Support.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yc62&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=yc62&theme=swift&hide_border=false)<br/>
@@ -40,5 +39,3 @@ I am actively seeking a Summer 2026 internship where I can contribute to a team,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yc62&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
